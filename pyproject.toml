@@ -21,5 +21,6 @@ build-backend = "hatchling.build"
 [dependency-groups]
 dev = [
     "ipykernel>=6.30.0",
+    "nbmake>=1.5.5",
     "pytest>=8.4.1",
 ]
